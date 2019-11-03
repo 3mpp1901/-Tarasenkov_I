@@ -1,2 +1,2 @@
-# -Tarasenkov_I
+# Tarasenkov_I
  Student: Tarasenkov I
